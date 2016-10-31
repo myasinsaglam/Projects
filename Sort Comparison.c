@@ -9,7 +9,7 @@ Then you can see on the screen average runtime for each algorithm.
 
 @author
 
-Name 			 :		Muhammed Yasin SAÐLAM	
+Name 			 :		Muhammed Yasin SAÄžLAM	
 Student No		 :	 	15011804	
 Date 			 :		30/10/2016
 E-Mail			 :		myasinsaglam1907@gmail.com
