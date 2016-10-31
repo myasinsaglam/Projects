@@ -23,7 +23,7 @@ Operating System 	 :		Windows Embedded 8.1 Industry Pro
 #include<stdlib.h>
 #include<time.h>
 
-//	Function procedures that used in this program
+//Function procedures that used in this program
 void printArray(int *, int ); 
 void Sel_sort(int *,int );
 void Bubble_sort(int *,int );
