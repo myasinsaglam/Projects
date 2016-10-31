@@ -208,8 +208,8 @@ void arr_Copy(int *arr2,int *arr1,int size){
 		arr2[i]=arr1[i];
 }
 /**
-	@param *arr			array that will be selection sorted 
-	@param size			size of array
+	@param arr		array that will be selection sorted 
+	@param size		size of array
 */
 void Sel_sort(int *arr,int size){
 	int i,j,temp,Mindex;
@@ -225,8 +225,8 @@ void Sel_sort(int *arr,int size){
 		}		
 }
 /**
-	@param *arr			array that will be bubble sorted 
-	@param size			size of array
+	@param *arr		array that will be bubble sorted 
+	@param size		size of array
 */
 void Bubble_sort(int *arr,int size){
 	int i,j,temp;
